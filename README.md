@@ -11,7 +11,7 @@ I build responsive, user-friendly web applications with a strong focus on clean 
 
 ### 💻 Featured Projects
 
-- **[Image Search App]((https://github.com/Yuliia-7/goit-js-hw-12))** — a single-page application (SPA) for keyword image search built with JavaScript, Vite, Axios, and the Pixabay REST API. Implemented asynchronous requests, dynamic gallery rendering, "Load More" pagination, smooth scrolling, and user notifications.
+- **[Image Search App](https://github.com/Yuliia-7/goit-js-hw-12)** — a single-page application (SPA) for keyword image search built with JavaScript, Vite, Axios, and the Pixabay REST API. Implemented asynchronous requests, dynamic gallery rendering, "Load More" pagination, smooth scrolling, and user notifications.
 - **[WebStudio](https://github.com/Yuliia-7/goit-markup-hw-06)** — an adaptive landing and portfolio website built with semantic HTML5, CSS3, and BEM methodology, featuring a mobile menu, interactive modal window, and smooth transitions.
 
 
